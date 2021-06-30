@@ -1,0 +1,16 @@
+.para1 {
+    color:white;
+    height: 200px;
+    width: 70%;
+    background-color: gray;
+}
+
+.ABHIRAM {
+    height: 100px;
+    width: 50%;
+    background-color: yellow;
+}
+
+/* PERCENTAGES ARE USED FOR ALL TYPES OF SCREEN SIZE
+PIXELS ARE USED BUT IT IS CONSTANT AND DOESNT CHANGE  */
+/* vh is used for total view port */
